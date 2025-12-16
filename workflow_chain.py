@@ -1,4 +1,3 @@
-Step 2 — Add Code
 from prefect import flow, task
 
 @task
